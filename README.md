@@ -42,7 +42,7 @@ Based in Kenya · [Explore my repositories](https://github.com/stevedatalabs?tab
 
 ## How I work
 
-**Frame the decision → check and prepare the data → analyse the evidence → communicate an action.**
+**Frame the question at hand → check and prepare the data → analyse the evidence → communicate an action.**
 
 I look beyond a headline number. Sales growth matters alongside profit; customer activity matters alongside customer value; and an economic relationship needs to be interpreted in light of the model and its limitations. My projects show the analysis, visual evidence and reasoning behind the recommendation.
 
